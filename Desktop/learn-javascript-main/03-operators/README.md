@@ -334,7 +334,3 @@ graph TD
 
 ---
 
-## 🙌 Follow & Support
-
-> This content is crafted by [Ajay Dhangar](https://github.com/ajay-dhangar).
-> If you find it helpful, don't forget to ⭐ **star** this repo and follow on [CodeHarborHub](https://codeharborhub.github.io/) for more such content!
