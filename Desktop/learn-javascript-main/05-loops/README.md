@@ -234,13 +234,6 @@ cherry
 
 ---
 
-## 🔗 Connect with Me
-
-* 🌐 Website: [CodeHarborHub](https://codeharborhub.github.io/)
-* 🐦 Twitter: [@CodesWithAjay](https://x.com/CodesWithAjay)
-* 💼 LinkedIn: [Ajay Dhangar](https://www.linkedin.com/in/ajay-dhangar)
-
----
 
 © 2025 CodeHarborHub. All rights reserved.
 
