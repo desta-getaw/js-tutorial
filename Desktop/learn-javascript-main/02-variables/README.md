@@ -129,13 +129,6 @@ person = { name: "Someone" }; // ❌ Error
 **5. What does dynamically typed mean in JavaScript?**
 
 It means **data types are assigned at runtime**, and the same variable can hold values of different types during execution.
-
----
-
-## 🔗 Reference & Learn More
-
-Visit [CodeHarborHub](https://codeharborhub.github.io/) for projects, interactive demos, and more JavaScript practice.
-
 ---
 
 ## ✅ Summary
