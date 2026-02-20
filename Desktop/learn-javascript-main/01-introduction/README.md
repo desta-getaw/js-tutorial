@@ -172,7 +172,6 @@ However, in the browser context, it usually interacts with HTML to manipulate UI
 
 If you like this series:
 
-* 🔔 **Follow & Star** the repo
 
 * Explore more JavaScript tutorials and real-world projects at: Learn & build with real-world code.
 
