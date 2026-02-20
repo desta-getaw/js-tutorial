@@ -173,9 +173,8 @@ However, in the browser context, it usually interacts with HTML to manipulate UI
 If you like this series:
 
 * 🔔 **Follow & Star** the repo
-* 🌟 [Ajay Dhangar – GitHub](https://github.com/ajay-dhangar)
-* 💼 [Ajay Dhangar – LinkedIn](https://www.linkedin.com/in/ajay-dhangar/)
-* Explore more JavaScript tutorials and real-world projects at: 👉 [CodeHarborHub](https://codeharborhub.github.io/) – Learn & build with real-world code.
+
+* Explore more JavaScript tutorials and real-world projects at: Learn & build with real-world code.
 
 ---
 
